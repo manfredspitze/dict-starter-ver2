@@ -1,0 +1,1 @@
+# dict-starter-ver2
