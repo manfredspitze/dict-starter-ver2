@@ -27,4 +27,6 @@ In this project, you'll learn how to:
 
 - Then update a different key-value pair using the `update()` method   
 
-- In your f-string, check for a specific key using the `get()` method and display the default value if the key you requested doesn't exist in your dictionary
+- In an f-string, check for a specific key using the `get()` method and display the default value if the key you requested doesn't exist in your dictionary
+
+- Also print the updated/modified dictionary
