@@ -4,7 +4,7 @@
 
 In this project, you'll learn how to:
 
-1. update key-value pairs directly
+1. update key-value pairs directly using *square bracket notation*
 2. update key-value pairs using the `update()` method
 3. use the `get()` method to set a **default value** for a key-value pair that will be returned if the requested key doesn't exist
 
